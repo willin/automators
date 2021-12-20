@@ -3,3 +3,7 @@
 [English](./readme.md)
 
 TBD.
+
+## Add to Shortcuts.app
+
+## Add to Finder icon button

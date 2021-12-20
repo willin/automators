@@ -3,3 +3,7 @@
 [中文文档](./zh-CN.md)
 
 TBD.
+
+## Add to Shortcuts.app
+
+## Add to Finder icon button
